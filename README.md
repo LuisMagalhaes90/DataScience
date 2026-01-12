@@ -2,13 +2,6 @@ Este repositório reúne meus projetos e estudos na área de Data Science, com f
 Aqui estão organizados tanto projetos autorais quanto projetos desenvolvidos durante cursos da Alura, sempre com o objetivo de consolidar conceitos clássicos da área antes de avançar para soluções mais complexas.
 
 
-Sobre mim
-
-Sou estudante de programação em transição e consolidação na área de Ciência de Dados. Valorizo fundamentos bem feitos: limpeza de dados, análise exploratória consistente, entendimento estatístico e código legível.
-Prefiro soluções simples, claras e reproduzíveis em vez de complexidade desnecessária.
-Minha abordagem é pragmática: entender o dado antes de qualquer modelo e questionar resultados ao invés de aceitá-los cegamente.
-
-
 O que você vai encontrar aqui:
 
 📊 Análise e tratamento de dados
